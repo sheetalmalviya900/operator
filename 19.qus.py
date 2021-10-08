@@ -1,0 +1,5 @@
+a=(1,2,3,4,5,6)
+print(1 in a)
+print(1 not in a)
+print(2 in a)
+print(print)
